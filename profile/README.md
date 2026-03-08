@@ -1,3 +1,13 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="ndi-logo-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="ndi-logo-light.png" />
+    <img src="ndi-logo-light.png" alt="NDI Logo" width="150" />
+  </picture>
+</p>
+
+<h3 align="center">Bhutan NDI</h3>
+
 <h1 align="center">Bhutan National Digital Identity</h1>
 
 <p align="center">
